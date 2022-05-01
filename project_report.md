@@ -45,11 +45,11 @@
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 #### The simulations used the kaggle "bike sharing demand" dataset (Fanaee-T, H & Gama, J. 2014) to illustrate the use of auto ML to automate and speed model training and evaluation, and how basic techniques of feature engineering can improve performance. The dataset is a datetimeindex dataset with hourly information on bike sharing demand starting from January 1th 2011 until December 19th 2012 with gaps of nearly 10 days in datatime sequence starting from 20th till the end of each month. The dataset contains hourly information about season, several weather variables, workingdays and holidays, basically.
@@ -62,16 +62,16 @@
 
 ## Figures
 #### <ins>Figure 1:</ins> Histogram of features
-![histogram_of_features.png](img/histogram_of_features.png)
+![histogram_of_features.png](histogram_of_features.png)
 
 #### <ins>Figure 2:</ins> Histogram of day
-![histogram-of-day.png](img/histogram-of-day.png)
+![histogram-of-day.png](histogram-of-day.png)
 
 #### <ins>Figure 3:</ins> Correlation matrix
-![correlation-matrix.png](img/correlation-matrix.png)
+![correlation-matrix.png](correlation-matrix.png)
 
 #### <ins>Figure 4:</ins> Correlation of holiday and workingday decomposed by season
-![ggpairs-holiday&workday.png](img/ggpairs-holiday&workday.png)
+![ggpairs-holiday&workday.png](ggpairs-holiday&workday.png)
 
 
 
